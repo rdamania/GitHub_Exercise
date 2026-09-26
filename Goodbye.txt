@@ -1,0 +1,2 @@
+Goodbye, this file is on the new branch.
+It should not appear on main.
